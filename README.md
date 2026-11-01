@@ -45,12 +45,16 @@ Final-year Computer Engineering undergraduate (Minor in Data Science) at Ramrao 
 
 <img src="assets/h-activity.svg" alt="GitHub activity" width="100%">
 
-<img src="https://ghchart.rshah.org/701A3D/MOHITDADHICH29" alt="GitHub contribution chart for MOHITDADHICH29" width="100%">
+<img src="assets/heatmap.svg" alt="GitHub contribution heatmap for MOHITDADHICH29" width="100%">
 
-<!-- If a stats card ever breaks, delete that line rather than leave a broken image. -->
+<img src="assets/stats.svg" alt="GitHub activity summary: contributions, active days and streaks" width="100%">
+
+<br>
+
+<img src="assets/h-city.svg" alt="3D contribution city" width="100%">
+
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MOHITDADHICH29&show_icons=true&hide_border=true&bg_color=190B12&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&ring_color=701A3D">
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHITDADHICH29&layout=compact&hide_border=true&bg_color=190B12&title_color=E5B5C7&text_color=F8F0F3">
+  <a href="https://mohitdadhich29.github.io/contribution-city/"><img src="assets/city-preview.svg" alt="Isometric skyline of my GitHub contributions. Click to open the interactive 3D version." width="100%"></a>
 </p>
 
 <br>
